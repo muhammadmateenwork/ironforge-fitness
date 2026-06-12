@@ -24,9 +24,9 @@
       }
     ],
     "paths": {
-      "@/*": [
-        "./src/*"
-      ]
+      "@/*": ["./src/*"],
+      "@/backend": ["./backend"],
+      "@/backend/*": ["./backend/*"]
     }
   },
   "include": [
