@@ -29,7 +29,7 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "IronForge Fitness" }],
   icons: {
-    icon: "/gym/favicon.ico",
+    icon: "/favicon.ico",
   },
   openGraph: {
     title: "IronForge Fitness — Your Neighborhood Gym",
